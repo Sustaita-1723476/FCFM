@@ -1,4 +1,4 @@
 # FCFM-miner-a-de-datos
 ## Tareas y trabajos
-### [MAPA MENTAL] (Mapa%20Mental%20MINERIA.pdf)
-### [EJERCICIO BASE DE DATOS] (Ej1_BaseDatos.Equipo10.pdf)
+### [MAPA MENTAL](MAPA%20MENTAL%20TAREA%20%231.pdf)
+### [EJERCICIO BASE DE DATOS](Ej1_BaseDatos.Equipo10.pdf)
