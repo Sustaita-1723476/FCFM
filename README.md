@@ -6,4 +6,4 @@
 ### [LIMPIEZA DE DATOS BASE 2](Ej_LimpiezaConsumo_Equipo10.ipynb)
 ### [Ejercicios básicos de Python](Ej_Python_1736472.ipynb) 
 ### [Avance del PIA CON LA BASE PRINCIPAL](Avance_PIA_Eq10.ipynb)
-### [Avance del PIA CON SEGUNDA BASE](Avance1_PIA_Equipo10.ipynb)
+### [Avance del PIA CON SEGUNDA-BASE](Avance1_PIA_Equipo10.ipynb)
