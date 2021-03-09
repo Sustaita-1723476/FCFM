@@ -8,4 +8,4 @@
 ### [Avance del PIA CON LA BASE PRINCIPAL](Avance_PIA_Eq10.ipynb)
 ### [Avance del PIA CON SEGUNDA-BASE](Avance1_PIA_Equipo10.ipynb)
 ### [REGLAS DE ASOCIACIÓN](Presentacion_Reglas.de.asociacion_Equipo10.pdf)
-### [Mini examen-Calificación](Calificación_Reglas.De.Asociación_Equipo10.pdf)
+### [Mini examen-Calificación](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
